@@ -2,11 +2,17 @@ Nuxt Vue Video App, Tailwind, Axios, Games API
 
 ## Introduction
 
-Displays IDGB info
+Displays IDGB video games
 
 ## Demo
 
+https://thirsty-montalcini-f83e32.netlify.com/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/43be7798-2b38-4e82-9e4d-d67f19f4274f/deploy-status)](https://app.netlify.com/sites/thirsty-montalcini-f83e32/deploys)
+
 ## Repo
+
+https://github.com/xhostcom/nuxt-vue-video-app.git
 
 ## Author
 
